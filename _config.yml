@@ -3,7 +3,7 @@ name: David O. Ilenwabor
 email: dave11ilen@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Software Engineer, Swift, Java, iOS, Android, Javascript"
-skills: "iOS/ Android Developer"
+skills: "Software Developer"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -11,8 +11,8 @@ baseurl:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/davidemi/
-  #- title: twitter
-   # url: https://twitter.com/davidemi07
+  - title: twitter
+    url: https://twitter.com/davidemi07
   - title: github
     url: https://github.com/demistry
     
